@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Maison de Sally",
+    "shadow": { "type": "compound", "shapes": [
+      { "type": "rect", "x": 40, "y": 80, "width": 120, "height": 90 },
+      { "type": "triangle", "points": "100,20 20,80 180,80" }
+    ]},
+    "pieces": [
+      { "id": "a", "type": "rect", "width": 120, "height": 90, "color": "#4D96FF" },
+      { "id": "b", "type": "triangle", "base": 160, "height": 60, "color": "#FF6B6B" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Flèche de Sally",
+    "shadow": { "type": "compound", "shapes": [
+      { "type": "rect", "x": 60, "y": 90, "width": 80, "height": 40 },
+      { "type": "triangle", "points": "140,70 200,110 140,150" }
+    ]},
+    "pieces": [
+      { "id": "a", "type": "rect", "width": 80, "height": 40, "color": "#6BCB77" },
+      { "id": "b", "type": "triangle", "base": 80, "height": 60, "color": "#FFA502" }
+    ]
+  }
+]

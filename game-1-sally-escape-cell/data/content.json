@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Salle de Sally",
+      "description": "Une cellule sombre avec un garde nommé Sally.",
+      "objects": [
+        { "id": "key1", "name": "Clé en fer", "type": "collectible" },
+        { "id": "door1", "name": "Porte verrouillée", "type": "interactive", "requires": "key1" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Le Couloir",
+      "description": "Un long couloir rempli d'énigmes.",
+      "objects": []
+    }
+  ]
+}
