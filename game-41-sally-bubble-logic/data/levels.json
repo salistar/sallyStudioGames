@@ -1,0 +1,15 @@
+[
+  { "id":1, "grid":8, "bubbles":[
+    { "id":"a1","color":"#FF4757","row":0,"col":0 },
+    { "id":"a2","color":"#FF4757","row":3,"col":4 },
+    { "id":"b1","color":"#2ED573","row":0,"col":6 },
+    { "id":"b2","color":"#2ED573","row":5,"col":1 },
+    { "id":"c1","color":"#4D96FF","row":2,"col":2 },
+    { "id":"c2","color":"#4D96FF","row":6,"col":7 }
+  ]},
+  { "id":2, "grid":9, "bubbles":[
+    { "id":"a1","color":"#FF4757","row":0,"col":0 },{ "id":"a2","color":"#FF4757","row":8,"col":8 },
+    { "id":"b1","color":"#FFA502","row":0,"col":8 },{ "id":"b2","color":"#FFA502","row":8,"col":0 },
+    { "id":"c1","color":"#2ED573","row":4,"col":2 },{ "id":"c2","color":"#2ED573","row":4,"col":6 }
+  ]}
+]

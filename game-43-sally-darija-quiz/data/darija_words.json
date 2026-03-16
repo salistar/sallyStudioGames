@@ -1,0 +1,12 @@
+[
+  { "id":1, "darija":"كيداير", "latin":"kidayer", "french":"Comment tu vas ?", "category":"salutations",
+    "choices":["Comment tu vas ?","Au revoir","Merci","S'il te plaît"] },
+  { "id":2, "darija":"شكرا", "latin":"choukran", "french":"Merci", "category":"politesse",
+    "choices":["Bonjour","Merci","Pardon","Oui"] },
+  { "id":3, "darija":"واش كاين", "latin":"wash kayen", "french":"Est-ce qu'il y a", "category":"expressions",
+    "choices":["Où es-tu ?","Est-ce qu'il y a","Qu'est-ce que c'est","Comment ça s'appelle"] },
+  { "id":4, "darija":"بزاف", "latin":"bzzaf", "french":"Beaucoup", "category":"quantité",
+    "choices":["Un peu","Beaucoup","Jamais","Toujours"] },
+  { "id":5, "darija":"مزيان", "latin":"mzyan", "french":"Bien / Beau", "category":"qualités",
+    "choices":["Mauvais","Vieux","Bien / Beau","Petit"] }
+]

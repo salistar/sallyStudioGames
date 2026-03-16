@@ -1,0 +1,8 @@
+{
+  "challenges": [
+    { "type": "tap", "instructions": "Appuie 5 fois vite !", "target": 5 },
+    { "type": "wait", "instructions": "Attends 3 secondes...", "target": 3 },
+    { "type": "dont_touch", "instructions": "NE TOUCHE À RIEN !", "target": 2 },
+    { "type": "hold", "instructions": "Maintiens 2 secondes pile", "target": 2 }
+  ]
+}
